@@ -1,0 +1,13 @@
+:root {
+/*     pegando os estilos de uma vez só */
+
+ /* font */
+ --font-dm-sans: "DM Sans", sans-serif;
+
+ /* colors */
+ --bg-icon: #131313;
+
+ /* background color */
+ --bg-arrow-color: rgba(0, 0, 0, 7);
+}
+
